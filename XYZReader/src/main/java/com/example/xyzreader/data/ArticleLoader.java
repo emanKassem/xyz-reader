@@ -32,6 +32,8 @@ public class ArticleLoader extends CursorLoader {
                 ItemsContract.Items.BODY,
         };
 
+
+
         int _ID = 0;
         int TITLE = 1;
         int PUBLISHED_DATE = 2;
